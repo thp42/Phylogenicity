@@ -36,14 +36,14 @@ The following packages/programs should be installed. The typical installation ti
 
 | Program | Tested version | Download / Release page |
 |---------|---------------|-------------------------|
-| Python | **3.11.5** (24 Aug 2023) :contentReference[oaicite:0]{index=0} | https://www.python.org/downloads/release/python-3115/ |
-| R | **4.5.0** (11 Apr 2025) :contentReference[oaicite:1]{index=1} | https://cran.r-project.org/bin/ |
-| IQ‑TREE 2 | **2.4.0** (legacy; Feb 2025) – latest stable is **3.0.0** (Apr 2025) :contentReference[oaicite:2]{index=2} | https://www.iqtree.org/ |
-| PRANK | **v.170427** (current stable) :contentReference[oaicite:3]{index=3} | https://github.com/ariloytynoja/prank-msa |
-| HyPhy | **2.5.71** (Mar 2025) :contentReference[oaicite:4]{index=4} | https://github.com/veg/hyphy/releases |
-| WebLogo 3 | **3.9.0** (23 Dec 2024) :contentReference[oaicite:5]{index=5} | https://github.com/gecrooks/weblogo/releases |
-| IUPred3 | **Web server 3** (2024) :contentReference[oaicite:6]{index=6} | https://iupred3.elte.hu/ |
-| Jalview | **2.11.4.1** (29 Oct 2024) :contentReference[oaicite:7]{index=7} | https://www.jalview.org/download/ |
+| Python | **3.11.5** | https://www.python.org/downloads/release/python-3115/ |
+| R | **4.5.0** | https://cran.r-project.org/bin/ |
+| IQ‑TREE 2 | **2.4.0** | [https://www.iqtree.org/](https://iqtree.github.io/) |
+| PRANK | **v.170427** | https://github.com/ariloytynoja/prank-msa |
+| HyPhy | **2.5.71** | https://github.com/veg/hyphy/releases |
+| WebLogo 3 | **3.9.0** | https://github.com/gecrooks/weblogo/releases |
+| IUPred3 | **Web server 3** | https://iupred3.elte.hu/ |
+| Jalview | **2.11.4.1** | https://www.jalview.org/download/ |
 
 **Python packages**:
 ```
