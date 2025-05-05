@@ -1,0 +1,506 @@
+>7897_0:00286c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"7897_0","organism_name":"Latimeria chalumnae","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:62 PSSM_Score:35.21 IUPRED_Score:0.59 ANCHOR_Score:0.50 Coil:0.13 Helix:0.87 Strand:0.01
+ANVRRLSVEQLRSIFESHSDDSA
+>55291_0:005238 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"55291_0","organism_name":"Polypterus senegalus","pub_gene_id":"120518598","description":"inositol-trisphosphate 3-kinase A"} pos:58 PSSM_Score:41.91 IUPRED_Score:0.77 ANCHOR_Score:0.98 Coil:0.05 Helix:0.87 Strand:0.10
+PVRGEVSVLQLRALFEARNTEPR
+>27687_0:0048d2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"27687_0","organism_name":"Erpetoichthys calabaricus","pub_gene_id":"itpka","description":"inositol-trisphosphate 3-kinase A"} pos:58 PSSM_Score:42.82 IUPRED_Score:0.81 ANCHOR_Score:0.99 Coil:0.08 Helix:0.89 Strand:0.03
+PVRGEVSVHQLRALFEARNTEPR
+>7918_0:004697 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"7918_0","organism_name":"Lepisosteus oculatus","pub_gene_id":"itpka","description":"inositol-trisphosphate 3-kinase A"} pos:68 PSSM_Score:46.06 IUPRED_Score:0.77 ANCHOR_Score:0.81 Coil:0.28 Helix:0.57 Strand:0.20
+HEITGVSVVELRSLFEEPRKSDS
+>118141_0:003981 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"118141_0","organism_name":"Megalops cyprinoides","pub_gene_id":"118786426","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:80 PSSM_Score:29.05 IUPRED_Score:0.67 ANCHOR_Score:0.67 Coil:0.07 Helix:0.61 Strand:0.34
+YKVSGVSVLQLKSLFESHKSDGT
+>7936_0:000532 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"7936_0","organism_name":"Anguilla anguilla","pub_gene_id":"118213583","description":"inositol-trisphosphate 3-kinase A"} pos:68 PSSM_Score:32.07 IUPRED_Score:0.61 ANCHOR_Score:0.67 Coil:0.34 Helix:0.23 Strand:0.42
+SKASGVSVVQLKSLFEPNKSESC
+>113540_0:003d86 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"113540_0","organism_name":"Scleropages formosus","pub_gene_id":"itpka","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:64 PSSM_Score:19.06 IUPRED_Score:0.72 ANCHOR_Score:0.79 Coil:0.44 Helix:0.11 Strand:0.46
+RADGGVRVGSLHSVFEPLSADSQ
+>7906_0:003ff2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"7906_0","organism_name":"Acipenser ruthenus","pub_gene_id":"itpka","description":"inositol-trisphosphate 3-kinase A"} pos:81 PSSM_Score:39.71 IUPRED_Score:0.81 ANCHOR_Score:0.95 Coil:0.34 Helix:0.10 Strand:0.56
+VELKGVSVVQLRSLFEPGSGTET
+>7913_0:002ffd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"7913_0","organism_name":"Polyodon spathula","pub_gene_id":"121324772","description":"inositol-trisphosphate 3-kinase A-like"} pos:75 PSSM_Score:39.71 IUPRED_Score:0.72 ANCHOR_Score:0.77 Coil:0.32 Helix:0.28 Strand:0.42
+REVTGVSVVQLRSLFEPSSVAQA
+>1415580_0:00375b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1415580_0","organism_name":"Microcaecilia unicolor","pub_gene_id":"ITPKA","description":"Kinase"} pos:29 PSSM_Score:55.87 IUPRED_Score:0.78 ANCHOR_Score:0.84 Coil:0.10 Helix:0.89 Strand:0.03
+AGRKRLSVGELRSFFEARCAAAG
+>260995_0:002473 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"260995_0","organism_name":"Geotrypetes seraphini","pub_gene_id":"ITPKA","description":"Kinase"} pos:29 PSSM_Score:55.87 IUPRED_Score:0.79 ANCHOR_Score:0.81 Coil:0.10 Helix:0.89 Strand:0.02
+AGRKRLSVGELRSFFEARCAAAG
+>194408_0:001a19 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"194408_0","organism_name":"Rhinatrema bivittatum","pub_gene_id":"ITPKA","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:31 PSSM_Score:55.87 IUPRED_Score:0.76 ANCHOR_Score:0.81 Coil:0.12 Helix:0.86 Strand:0.04
+GGRKRLSVGELRSFFEARCSAVG
+>30331_0:004d1b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30331_0","organism_name":"Bufo gargarizans","pub_gene_id":"122921769","description":"inositol-trisphosphate 3-kinase A"} pos:35 PSSM_Score:57.43 IUPRED_Score:0.76 ANCHOR_Score:0.93 Coil:0.18 Helix:0.14 Strand:0.68
+SGRKRLSVGELRLYFEARCTAEP
+>8384_0:005193 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8384_0","organism_name":"Bufo bufo","pub_gene_id":"120982394","description":"inositol-trisphosphate 3-kinase A"} pos:35 PSSM_Score:57.43 IUPRED_Score:0.76 ANCHOR_Score:0.92 Coil:0.17 Helix:0.25 Strand:0.60
+SGRKRLSVGELRLYFEARCTAEP
+>8407_0:005b00 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8407_0","organism_name":"Rana temporaria","pub_gene_id":"120920442","description":"inositol-trisphosphate 3-kinase A-like"} pos:32 PSSM_Score:50.70 IUPRED_Score:0.69 ANCHOR_Score:0.88 Coil:0.21 Helix:0.32 Strand:0.50
+SARKRLSVGELRLYFETRCSAER
+>125878_0:003ad6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"125878_0","organism_name":"Nanorana parkeri","pub_gene_id":"LOC108799223","description":"inositol-trisphosphate 3-kinase A-like"} pos:32 PSSM_Score:57.43 IUPRED_Score:0.68 ANCHOR_Score:0.83 Coil:0.16 Helix:0.39 Strand:0.52
+SGRKRLSVGELRLYFEARCSAER
+>8364_0:004966 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8364_0","organism_name":"Xenopus tropicalis","pub_gene_id":"itpka","description":"Kinase"} pos:35 PSSM_Score:54.68 IUPRED_Score:0.78 ANCHOR_Score:0.92 Coil:0.19 Helix:0.24 Strand:0.55
+SVRKRLSVGELRLFFETRCTAEW
+>8355_0:006d63 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8355_0","organism_name":"Xenopus laevis","pub_gene_id":"itpka.L","description":"Kinase"} pos:35 PSSM_Score:64.17 IUPRED_Score:0.81 ANCHOR_Score:0.97 Coil:0.18 Helix:0.53 Strand:0.33
+SVRKRLSVGELRLMFEARCTPER
+>8355_0:00749b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8355_0","organism_name":"Xenopus laevis","pub_gene_id":"itpka.S","description":"Kinase"} pos:35 PSSM_Score:62.58 IUPRED_Score:0.68 ANCHOR_Score:0.65 Coil:0.15 Helix:0.35 Strand:0.55
+SGRKRLSVGELRLIFEARCSAQW
+>146911_0:000922 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"146911_0","organism_name":"Gekko japonicus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:25 PSSM_Score:64.15 IUPRED_Score:0.79 ANCHOR_Score:0.87 Coil:0.08 Helix:0.90 Strand:0.01
+GRGKRLSVGELRSLFEARCAAAS
+>94885_0:00143c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"94885_0","organism_name":"Pantherophis guttatus","pub_gene_id":"ITPKA","description":"Kinase"} pos:21 PSSM_Score:51.98 IUPRED_Score:0.69 ANCHOR_Score:0.60 Coil:0.08 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>35019_0:002c95 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"35019_0","organism_name":"Thamnophis sirtalis","pub_gene_id":"LOC106548201","description":"Kinase"} pos:24 PSSM_Score:51.98 IUPRED_Score:0.72 ANCHOR_Score:0.68 Coil:0.08 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>35005_0:00069f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"35005_0","organism_name":"Thamnophis elegans","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:24 PSSM_Score:51.98 IUPRED_Score:0.69 ANCHOR_Score:0.64 Coil:0.08 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>8673_0:0003d9 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8673_0","organism_name":"Pseudonaja textilis","pub_gene_id":"ITPKA","description":"Kinase"} pos:24 PSSM_Score:51.98 IUPRED_Score:0.69 ANCHOR_Score:0.64 Coil:0.08 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>8663_0:000872 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8663_0","organism_name":"Notechis scutatus","pub_gene_id":"ITPKA","description":"Kinase"} pos:24 PSSM_Score:51.98 IUPRED_Score:0.69 ANCHOR_Score:0.64 Coil:0.08 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>88082_0:003f3e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"88082_0","organism_name":"Crotalus tigris","pub_gene_id":"120299253","description":"inositol-trisphosphate 3-kinase A"} pos:24 PSSM_Score:51.98 IUPRED_Score:0.70 ANCHOR_Score:0.63 Coil:0.07 Helix:0.92 Strand:0.01
+GRRRQLSVGELCSLFEARCAMAS
+>61221_0:002213 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61221_0","organism_name":"Varanus komodoensis","pub_gene_id":"123026619","description":"inositol-trisphosphate 3-kinase A"} pos:20 PSSM_Score:64.15 IUPRED_Score:0.70 ANCHOR_Score:0.74 Coil:0.11 Helix:0.88 Strand:0.02
+GRAKRLSVGELRSLFEARCATTS
+>103695_0:001ccd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"103695_0","organism_name":"Pogona vitticeps","pub_gene_id":"ITPKA","description":"Kinase"} pos:28 PSSM_Score:64.15 IUPRED_Score:0.81 ANCHOR_Score:0.92 Coil:0.09 Helix:0.89 Strand:0.02
+GGSKRLSVGELRSLFEARCATAS
+>8524_0:00010e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8524_0","organism_name":"Zootoca vivipara","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:25 PSSM_Score:64.15 IUPRED_Score:0.77 ANCHOR_Score:0.87 Coil:0.09 Helix:0.89 Strand:0.02
+GRGKRLSVGELRSLFEARCAAPS
+>80427_0:00061f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"80427_0","organism_name":"Lacerta agilis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:25 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.86 Coil:0.09 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSLFEARCAAPS
+>64176_0:0005db {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"64176_0","organism_name":"Podarcis muralis","pub_gene_id":"ITPKA","description":"Kinase"} pos:25 PSSM_Score:64.15 IUPRED_Score:0.79 ANCHOR_Score:0.89 Coil:0.09 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSLFEARCAAPS
+>28377_0:00065c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"28377_0","organism_name":"Anolis carolinensis","pub_gene_id":"itpka","description":"inositol-trisphosphate 3-kinase A"} pos:18 PSSM_Score:64.15 IUPRED_Score:0.79 ANCHOR_Score:0.78 Coil:0.08 Helix:0.90 Strand:0.02
+SRGQRLSVGELRSLFEARCVAAA
+>8520_0:00003b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8520_0","organism_name":"Sceloporus undulatus","pub_gene_id":"121924219","description":"inositol-trisphosphate 3-kinase A"} pos:22 PSSM_Score:55.87 IUPRED_Score:0.83 ANCHOR_Score:0.93 Coil:0.10 Helix:0.89 Strand:0.02
+GRAKRLSVGELRSFFEARCASSA
+>13735_0:003041 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"13735_0","organism_name":"Pelodiscus sinensis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.67 ANCHOR_Score:0.65 Coil:0.08 Helix:0.90 Strand:0.01
+GRGKRLSVGELRSFFEARCAAAA
+>1825980_0:001867 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1825980_0","organism_name":"Gopherus evgoodei","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>106734_0:002aa1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"106734_0","organism_name":"Chelonoidis abingdonii","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.80 ANCHOR_Score:0.89 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>260615_0:001a3a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"260615_0","organism_name":"Mauremys reevesii","pub_gene_id":"120405032","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>8478_0:000a94 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8478_0","organism_name":"Chrysemys picta bellii","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>31138_0:001a95 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"31138_0","organism_name":"Trachemys scripta elegans","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>74926_0:001bf2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"74926_0","organism_name":"Mauremys mutica","pub_gene_id":"123367876","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:55.87 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.08 Helix:0.90 Strand:0.02
+GRGKRLSVGELRSFFEAHCAAAA
+>8469_0:00206a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8469_0","organism_name":"Chelonia mydas","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:61.42 IUPRED_Score:0.75 ANCHOR_Score:0.73 Coil:0.09 Helix:0.88 Strand:0.04
+GRGKRLSVGELRLFFEAHCAAAA
+>8467_0:001e8b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8467_0","organism_name":"Caretta caretta","pub_gene_id":"125638038","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:61.42 IUPRED_Score:0.73 ANCHOR_Score:0.71 Coil:0.09 Helix:0.88 Strand:0.04
+GRGKRLSVGELRLFFEAHCAAAA
+>27794_0:001bd9 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"27794_0","organism_name":"Dermochelys coriacea","pub_gene_id":"119856831","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:61.42 IUPRED_Score:0.73 ANCHOR_Score:0.66 Coil:0.09 Helix:0.88 Strand:0.04
+GRGKRLSVGELRLFFEAHCAAAA
+>91951_0:001a48 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"91951_0","organism_name":"Catharus ustulatus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.58 Coil:0.07 Helix:0.91 Strand:0.02
+GRAKRLTVGELCSLFEARCAAVA
+>44394_0:0001e6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"44394_0","organism_name":"Zonotrichia albicollis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.72 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>84834_0:0014af {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"84834_0","organism_name":"Molothrus ater","pub_gene_id":"118687849","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.72 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>87175_0:00126b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"87175_0","organism_name":"Camarhynchus parvulus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.60 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>1094192_0:001543 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1094192_0","organism_name":"Motacilla alba alba","pub_gene_id":"119701188","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.59 Coil:0.07 Helix:0.91 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>9135_0:0036e5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9135_0","organism_name":"Serinus canaria","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>356909_0:0000d8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"356909_0","organism_name":"Montifringilla taczanowskii","pub_gene_id":"121332621","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>221976_0:000a69 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"221976_0","organism_name":"Montifringilla ruficollis","pub_gene_id":"121349399","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>9160_0:0012f5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9160_0","organism_name":"Passer montanus","pub_gene_id":"120500239","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.71 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>9157_0:0017c7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9157_0","organism_name":"Parus major","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.72 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>181119_0:001413 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"181119_0","organism_name":"Pseudopodoces humilis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.71 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>9172_0:0008cd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9172_0","organism_name":"Sturnus vulgaris","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.72 ANCHOR_Score:0.58 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>134902_0:001740 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"134902_0","organism_name":"Corvus hawaiiensis","pub_gene_id":"125327058","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.63 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>932674_0:001138 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"932674_0","organism_name":"Corvus cornix cornix","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.63 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>68294_0:00221d {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"68294_0","organism_name":"Corvus kubaryi","pub_gene_id":"121669391","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.63 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>1196302_0:00160c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1196302_0","organism_name":"Corvus moneduloides","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.60 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>43150_0:001548 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"43150_0","organism_name":"Hirundo rustica","pub_gene_id":"120754507","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.73 ANCHOR_Score:0.61 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>59729_0:00174f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"59729_0","organism_name":"Taeniopygia guttata","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.59 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>299123_0:0016af {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"299123_0","organism_name":"Lonchura striata domestica","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:47.07 IUPRED_Score:0.74 ANCHOR_Score:0.59 Coil:0.07 Helix:0.92 Strand:0.01
+SRAKRLTVGELCSLFEARCAAVA
+>164674_0:0001ce {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"164674_0","organism_name":"Empidonax traillii","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:51.98 IUPRED_Score:0.72 ANCHOR_Score:0.54 Coil:0.09 Helix:0.91 Strand:0.00
+SRAKRLSVGELCSLFEARCAAVA
+>296741_0:0018c7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"296741_0","organism_name":"Chiroxiphia lanceolata","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.74 ANCHOR_Score:0.66 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>415028_0:000fcd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"415028_0","organism_name":"Corapipo altera","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.74 ANCHOR_Score:0.66 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>114329_0:0003a5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"114329_0","organism_name":"Neopelma chrysocephalum","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.71 ANCHOR_Score:0.60 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>321398_0:00010b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"321398_0","organism_name":"Lepidothrix coronata","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.74 ANCHOR_Score:0.67 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>649802_0:003326 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"649802_0","organism_name":"Pipra filicauda","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.67 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>2489341_0:0011a5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"2489341_0","organism_name":"Strigops habroptila","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.77 ANCHOR_Score:0.75 Coil:0.09 Helix:0.90 Strand:0.01
+TRSKRLSVGELRSLFEARCAAVA
+>13146_0:0010db {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"13146_0","organism_name":"Melopsittacus undulatus","pub_gene_id":"LOC101878052","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.73 Coil:0.09 Helix:0.90 Strand:0.00
+SRSKRLSVGELRSLFEARCAAVA
+>148594_0:001ff0 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"148594_0","organism_name":"Falco naumanni","pub_gene_id":"121091213","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.74 ANCHOR_Score:0.70 Coil:0.09 Helix:0.90 Strand:0.01
+GRAKRLSVGELRSLFEARCAAAA
+>120794_0:002100 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"120794_0","organism_name":"Falco rusticolus","pub_gene_id":"119150932","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.73 ANCHOR_Score:0.69 Coil:0.09 Helix:0.90 Strand:0.01
+GRAKRLSVGELRSLFEARCAAAA
+>8996_0:001d1f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8996_0","organism_name":"Numida meleagris","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.00
+SRATRLSVGELRSLFEARCAAVA
+>9002_0:000dfa {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9002_0","organism_name":"Centrocercus urophasianus","pub_gene_id":"122157690","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.70 Coil:0.09 Helix:0.90 Strand:0.01
+SRATRLSVGELRSLFEARCAAVA
+>30410_0:0000db {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30410_0","organism_name":"Lagopus leucura","pub_gene_id":"122178827","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.74 ANCHOR_Score:0.69 Coil:0.09 Helix:0.90 Strand:0.01
+SRATRLSVGELRSLFEARCAAVA
+>9054_0:001281 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9054_0","organism_name":"Phasianus colchicus","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.71 Coil:0.09 Helix:0.90 Strand:0.00
+SRATRLSVGELRSLFEARCAAVA
+>9031_0:001c02 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9031_0","organism_name":"Gallus gallus","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.70 Coil:0.09 Helix:0.90 Strand:0.00
+SRATRLSVGELRSLFEARCAAVA
+>93934_0:001842 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"93934_0","organism_name":"Coturnix japonica","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.79 ANCHOR_Score:0.79 Coil:0.09 Helix:0.90 Strand:0.00
+SRATRLSVGELRSLFEARCAAVA
+>8790_0:000cc1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8790_0","organism_name":"Dromaius novaehollandiae","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:20 PSSM_Score:64.15 IUPRED_Score:0.71 ANCHOR_Score:0.60 Coil:0.09 Helix:0.90 Strand:0.00
+SRATRLSVGELRSLFEARCAAVA
+>30464_0:000988 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30464_0","organism_name":"Nothoprocta perdicaria","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:38 PSSM_Score:64.15 IUPRED_Score:0.71 ANCHOR_Score:0.67 Coil:0.09 Helix:0.90 Strand:0.01
+SRGTRLSVGELRSLFEARCAAVA
+>8839_0:001793 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8839_0","organism_name":"Anas platyrhynchos","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.73 ANCHOR_Score:0.66 Coil:0.09 Helix:0.90 Strand:0.01
+SLAPRLSVGELRSLFEARCAAVA
+>219594_0:0015ec {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"219594_0","organism_name":"Aythya fuligula","pub_gene_id":"ITPKA","description":"Kinase"} pos:20 PSSM_Score:64.15 IUPRED_Score:0.70 ANCHOR_Score:0.58 Coil:0.09 Helix:0.90 Strand:0.01
+SLAPRLSVGELRSLFEARCAAVA
+>8884_0:001922 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8884_0","organism_name":"Oxyura jamaicensis","pub_gene_id":"118167687","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.75 ANCHOR_Score:0.67 Coil:0.09 Helix:0.90 Strand:0.01
+SLAPRLSVGELRSLFEARCAAVA
+>8869_0:0015d4 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8869_0","organism_name":"Cygnus olor","pub_gene_id":"121070526","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.01
+SMAPRLSVGELRSLFEARCAAVA
+>8868_0:000ac8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8868_0","organism_name":"Cygnus atratus","pub_gene_id":"118244598","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.01
+SMAPRLSVGELRSLFEARCAAVA
+>8845_0:0011f2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"8845_0","organism_name":"Anser cygnoides","pub_gene_id":"106040743","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.01
+SMAPRLSVGELRSLFEARCAAVA
+>56313_0:0010a6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"56313_0","organism_name":"Tyto alba","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.77 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>223781_0:0004f8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"223781_0","organism_name":"Aquila chrysaetos chrysaetos","pub_gene_id":"ITPKA","description":"Kinase"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>216574_0:002416 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"216574_0","organism_name":"Aquila chrysaetos","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.76 ANCHOR_Score:0.72 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>52644_0:00314c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"52644_0","organism_name":"Haliaeetus leucocephalus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:20 PSSM_Score:64.15 IUPRED_Score:0.72 ANCHOR_Score:0.60 Coil:0.09 Helix:0.90 Strand:0.00
+SRAKRLSVGELRSLFEARCAAVA
+>9244_0:0016ac {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9244_0","organism_name":"Calypte anna","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:41 PSSM_Score:64.15 IUPRED_Score:0.72 ANCHOR_Score:0.65 Coil:0.09 Helix:0.90 Strand:0.01
+CRGKRLSVGELRSLFEARCAAVA
+>9261_0:001e8c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9261_0","organism_name":"Tachyglossus aculeatus","pub_gene_id":"119920860","description":"inositol-trisphosphate 3-kinase A"} pos:19 PSSM_Score:44.95 IUPRED_Score:0.87 ANCHOR_Score:0.97 Coil:0.02 Helix:0.98 Strand:0.00
+ERAPRRTVRELRSLFEARCAANS
+>9258_0:0029e6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9258_0","organism_name":"Ornithorhynchus anatinus","pub_gene_id":"ITPKA","description":"Kinase"} pos:35 PSSM_Score:44.95 IUPRED_Score:0.96 ANCHOR_Score:1.00 Coil:0.02 Helix:0.98 Strand:0.00
+GRAPRRTVRELRSLFEARCAAAA
+>33562_0:001da1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"33562_0","organism_name":"Dromiciops gliroides","pub_gene_id":"122743904","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.87 ANCHOR_Score:0.96 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>9337_0:005012 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9337_0","organism_name":"Trichosurus vulpecula","pub_gene_id":"118827939","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.88 ANCHOR_Score:0.97 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>38626_0:0031bc {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"38626_0","organism_name":"Phascolarctos cinereus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.86 ANCHOR_Score:0.96 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>29139_0:003152 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"29139_0","organism_name":"Vombatus ursinus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.83 ANCHOR_Score:0.96 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>13616_0:000431 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"13616_0","organism_name":"Monodelphis domestica","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.86 ANCHOR_Score:0.96 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>191870_0:001945 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"191870_0","organism_name":"Gracilinanus agilis","pub_gene_id":"123235953","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.83 ANCHOR_Score:0.93 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>9305_0:000f60 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9305_0","organism_name":"Sarcophilus harrisii","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:82 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.93 Coil:0.10 Helix:0.89 Strand:0.01
+ARAPRRSVGELRLLFEARCAAAA
+>28737_0:000ddd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"28737_0","organism_name":"Elephantulus edwardii","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.91 Coil:0.09 Helix:0.91 Strand:0.01
+ERSPRRSVGELRLLFEARCAAAA
+>1230840_0:0018d2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1230840_0","organism_name":"Orycteropus afer afer","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.09 Helix:0.90 Strand:0.01
+ERSQRRSVGELRLLFEARCAAAA
+>9785_0:003bcd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9785_0","organism_name":"Loxodonta africana","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.09 Helix:0.90 Strand:0.01
+ERYPRRSVGELRLLFEARCAAAA
+>127582_0:002718 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"127582_0","organism_name":"Trichechus manatus latirostris","pub_gene_id":"LOC101351507","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.83 Coil:0.09 Helix:0.90 Strand:0.01
+EQYPRRSVGELRLLFEARCAAAA
+>9361_0:004e3c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9361_0","organism_name":"Dasypus novemcinctus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.83 ANCHOR_Score:0.94 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAAA
+>27675_0:001374 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"27675_0","organism_name":"Choloepus didactylus","pub_gene_id":"119532136","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9417_0:003335 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9417_0","organism_name":"Artibeus jamaicensis","pub_gene_id":"119061306","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.91 Coil:0.09 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>192404_0:001f6a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"192404_0","organism_name":"Sturnira hondurensis","pub_gene_id":"118993555","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>89673_0:00008e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"89673_0","organism_name":"Phyllostomus discolor","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9423_0:004070 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9423_0","organism_name":"Phyllostomus hastatus","pub_gene_id":"123808974","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>143302_0:002b0d {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"143302_0","organism_name":"Condylura cristata","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>50954_0:000c5f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"50954_0","organism_name":"Talpa occidentalis","pub_gene_id":"119238514","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>50954_0:002faa {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"50954_0","organism_name":"Talpa occidentalis","pub_gene_id":"119253922","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>59463_0:001dbb {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"59463_0","organism_name":"Myotis lucifugus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:63.17 IUPRED_Score:0.75 ANCHOR_Score:0.84 Coil:0.08 Helix:0.84 Strand:0.12
+LGPPALSVGQLRLLFEARCLRSP
+>51298_0:0002ff {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"51298_0","organism_name":"Myotis myotis","pub_gene_id":"118650118","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:128 PSSM_Score:69.70 IUPRED_Score:0.75 ANCHOR_Score:0.80 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>59472_0:0003ee {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"59472_0","organism_name":"Pipistrellus kuhlii","pub_gene_id":"118723336","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAAA
+>29078_0:001626 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"29078_0","organism_name":"Eptesicus fuscus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.90 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>186990_0:0014bb {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"186990_0","organism_name":"Hipposideros armiger","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>59479_0:000e6c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"59479_0","organism_name":"Rhinolophus ferrumequinum","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>89399_0:000a12 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"89399_0","organism_name":"Rhinolophus sinicus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X2"} pos:184 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.83 Coil:0.09 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>246437_0:002f86 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"246437_0","organism_name":"Tupaia chinensis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:21 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.79 Coil:0.09 Helix:0.90 Strand:0.01
+DRAPRRSVGELRLLFEARCAAVA
+>379532_0:002531 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"379532_0","organism_name":"Propithecus coquereli","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.82 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9447_0:0002ac {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9447_0","organism_name":"Lemur catta","pub_gene_id":"123627920","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>30608_0:000a1f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30608_0","organism_name":"Microcebus murinus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>30611_0:002371 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30611_0","organism_name":"Otolemur garnettii","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>37293_0:004bf6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"37293_0","organism_name":"Aotus nancymaae","pub_gene_id":"ITPKA","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:57.53 IUPRED_Score:0.76 ANCHOR_Score:0.70 Coil:0.08 Helix:0.92 Strand:0.01
+ERAPRRSVGELCLLFEARCAAVA
+>9483_0:002d79 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9483_0","organism_name":"Callithrix jacchus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:184 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.83 Coil:0.09 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9515_0:003456 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9515_0","organism_name":"Sapajus apella","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>39432_0:0042cd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"39432_0","organism_name":"Saimiri boliviensis boliviensis","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>1737458_0:001415 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1737458_0","organism_name":"Cebus capucinus imitator","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>81572_0:0038a1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"81572_0","organism_name":"Hylobates moloch","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9606_0:0036f7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9606_0","organism_name":"Homo sapiens","pub_gene_id":"ITPKA","description":"Inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9598_0:003a7d {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9598_0","organism_name":"Pan troglodytes","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9597_0:003be6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9597_0","organism_name":"Pan paniscus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9595_0:003869 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9595_0","organism_name":"Gorilla gorilla gorilla","pub_gene_id":"115930848","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>61853_0:00127e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61853_0","organism_name":"Nomascus leucogenys","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9601_0:00366a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9601_0","organism_name":"Pongo abelii","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>54180_0:003b76 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"54180_0","organism_name":"Trachypithecus francoisi","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>61622_0:004588 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61622_0","organism_name":"Rhinopithecus roxellana","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>60711_0:002b75 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"60711_0","organism_name":"Chlorocebus sabaeus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.09 Helix:0.90 Strand:0.01
+DRAPRRSVGELRLLFEARCAAVA
+>9555_0:002072 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9555_0","organism_name":"Papio anubis","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9545_0:000325 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9545_0","organism_name":"Macaca nemestrina","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9531_0:003266 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9531_0","organism_name":"Cercocebus atys","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9541_0:0020f5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9541_0","organism_name":"Macaca fascicularis","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9544_0:001d7a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9544_0","organism_name":"Macaca mulatta","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9565_0:001cd7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9565_0","organism_name":"Theropithecus gelada","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>73337_0:000b89 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"73337_0","organism_name":"Ceratotherium simum simum","pub_gene_id":"LOC101397979","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9793_0:000500 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9793_0","organism_name":"Equus asinus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:31 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.91 Coil:0.09 Helix:0.90 Strand:0.01
+AGPPRRSVGELRLLFEARCAAVA
+>9796_0:000125 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9796_0","organism_name":"Equus caballus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>30538_0:003fb5 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30538_0","organism_name":"Vicugna pacos","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9838_0:000e54 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9838_0","organism_name":"Camelus dromedarius","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>419612_0:0011cd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"419612_0","organism_name":"Camelus ferus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9913_0:0020e6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9913_0","organism_name":"Bos taurus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9915_0:001e17 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9915_0","organism_name":"Bos indicus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>30522_0:00205f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30522_0","organism_name":"Bos indicus x Bos taurus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9925_0:001ef3 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9925_0","organism_name":"Capra hircus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9940_0:002034 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9940_0","organism_name":"Ovis aries","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>89462_0:002d85 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"89462_0","organism_name":"Bubalus bubalis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.90 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9880_0:004567 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9880_0","organism_name":"Odocoileus virginianus texanus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.09 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9860_0:002852 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9860_0","organism_name":"Cervus elaphus","pub_gene_id":"122705523","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>1574408_0:001b04 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1574408_0","organism_name":"Cervus canadensis","pub_gene_id":"122443422","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>494514_0:00075f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"494514_0","organism_name":"Vulpes lagopus","pub_gene_id":"121476159","description":"inositol-trisphosphate 3-kinase A"} pos:160 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>286419_0:004708 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"286419_0","organism_name":"Canis lupus dingo","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9615_0:004749 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9615_0","organism_name":"Canis lupus familiaris","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9402_0:003509 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9402_0","organism_name":"Pteropus alecto","pub_gene_id":"ITPKA","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.70 ANCHOR_Score:0.79 Coil:0.09 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>143291_0:003589 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"143291_0","organism_name":"Pteropus giganteus","pub_gene_id":"120587153","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.90 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>132908_0:0008b7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"132908_0","organism_name":"Pteropus vampyrus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.90 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9407_0:002820 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9407_0","organism_name":"Rousettus aegyptiacus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>41426_0:000972 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"41426_0","organism_name":"Phacochoerus africanus","pub_gene_id":"125119529","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9823_0:000016 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9823_0","organism_name":"Sus scrofa","pub_gene_id":"ITPKA","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9974_0:001f5b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9974_0","organism_name":"Manis javanica","pub_gene_id":"118972461","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.80 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>143292_0:002438 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"143292_0","organism_name":"Manis pentadactyla","pub_gene_id":"118931359","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.82 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9646_0:0015d9 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9646_0","organism_name":"Ailuropoda melanoleuca","pub_gene_id":"ITPKA","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:165 PSSM_Score:69.70 IUPRED_Score:0.70 ANCHOR_Score:0.78 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9711_0:004503 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9711_0","organism_name":"Halichoerus grypus","pub_gene_id":"118530623","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9720_0:001ffd {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9720_0","organism_name":"Phoca vitulina","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9716_0:003702 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9716_0","organism_name":"Mirounga angustirostris","pub_gene_id":"123862343","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9715_0:0045d4 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9715_0","organism_name":"Mirounga leonina","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>29088_0:002aa7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"29088_0","organism_name":"Neomonachus schauinslandi","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>37032_0:0024a6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"37032_0","organism_name":"Suricata suricatta","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:9 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.66 Coil:0.09 Helix:0.91 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9657_0:0021b9 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9657_0","organism_name":"Lutra lutra","pub_gene_id":"125105486","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>76717_0:000e69 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"76717_0","organism_name":"Lontra canadensis","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>391180_0:00075e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"391180_0","organism_name":"Enhydra lutris kenyoni","pub_gene_id":"LOC111140320","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9662_0:0018d8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9662_0","organism_name":"Meles meles","pub_gene_id":"123944716","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>452646_0:004570 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"452646_0","organism_name":"Neovison vison","pub_gene_id":"122893099","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9669_0:003ef6 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9669_0","organism_name":"Mustela putorius furo","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>36723_0:00175b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"36723_0","organism_name":"Mustela erminea","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>95912_0:00135b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"95912_0","organism_name":"Hyaena hyaena","pub_gene_id":"120232297","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.90 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9691_0:000950 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9691_0","organism_name":"Panthera pardus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9689_0:001d3a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9689_0","organism_name":"Panthera leo","pub_gene_id":"122221207","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9694_0:001b31 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9694_0","organism_name":"Panthera tigris","pub_gene_id":"102962638","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9696_0:001d56 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9696_0","organism_name":"Puma concolor","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:57.53 IUPRED_Score:0.79 ANCHOR_Score:0.70 Coil:0.08 Helix:0.92 Strand:0.01
+ERAPRRSVGELCLLFEARCAAVA
+>61384_0:000c0d {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61384_0","organism_name":"Lynx rufus","pub_gene_id":"124508086","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>61383_0:0018bc {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61383_0","organism_name":"Lynx canadensis","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>37029_0:0039a7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"37029_0","organism_name":"Prionailurus bengalensis","pub_gene_id":"122468741","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>32536_0:00196a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"32536_0","organism_name":"Acinonyx jubatus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>1608482_0:0022c0 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1608482_0","organism_name":"Puma yagouaroundi","pub_gene_id":"121041543","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>61388_0:00181c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61388_0","organism_name":"Prionailurus viverrinus","pub_gene_id":"125167564","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>46844_0:003986 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"46844_0","organism_name":"Leopardus geoffroyi","pub_gene_id":"123583127","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9685_0:001aec {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9685_0","organism_name":"Felis catus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>34886_0:0049af {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"34886_0","organism_name":"Eumetopias jubatus","pub_gene_id":"LOC114202776","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>34886_0:0049b3 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"34886_0","organism_name":"Eumetopias jubatus","pub_gene_id":"LOC114202782","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9704_0:002089 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9704_0","organism_name":"Zalophus californianus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>34884_0:0025ae {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"34884_0","organism_name":"Callorhinus ursinus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9644_0:0001b1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9644_0","organism_name":"Ursus arctos","pub_gene_id":"113242006","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9643_0:0005cc {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9643_0","organism_name":"Ursus americanus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>29073_0:003fc8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"29073_0","organism_name":"Ursus maritimus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.89 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9708_0:001965 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9708_0","organism_name":"Odobenus rosmarus divergens","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9731_0:003c5f {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9731_0","organism_name":"Globicephala melas","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>90247_0:0033c4 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"90247_0","organism_name":"Lagenorhynchus obliquidens","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9739_0:000a60 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9739_0","organism_name":"Tursiops truncatus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9733_0:002435 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9733_0","organism_name":"Orcinus orca","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>42100_0:000982 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"42100_0","organism_name":"Phocoena sinus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.82 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9749_0:0002c7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9749_0","organism_name":"Delphinapterus leucas","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.75 ANCHOR_Score:0.79 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>40151_0:002dcb {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"40151_0","organism_name":"Monodon monoceros","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.75 ANCHOR_Score:0.79 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>118797_0:0028cc {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"118797_0","organism_name":"Lipotes vexillifer","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9771_0:000a34 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9771_0","organism_name":"Balaenoptera musculus","pub_gene_id":"118888966","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9755_0:002133 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9755_0","organism_name":"Physeter catodon","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>130825_0:0037e9 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"130825_0","organism_name":"Ochotona curzoniae","pub_gene_id":"121168185","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.76 ANCHOR_Score:0.78 Coil:0.10 Helix:0.90 Strand:0.01
+ERVPRRSVGELRLLFEARCAAVA
+>130825_0:004f70 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"130825_0","organism_name":"Ochotona curzoniae","pub_gene_id":"121148535","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.76 ANCHOR_Score:0.78 Coil:0.10 Helix:0.90 Strand:0.01
+ERVPRRSVGELRLLFEARCAAVA
+>9978_0:002b2c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9978_0","organism_name":"Ochotona princeps","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9986_0:002e83 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9986_0","organism_name":"Oryctolagus cuniculus","pub_gene_id":"ITPKA","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>51338_0:002c7b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"51338_0","organism_name":"Castor canadensis","pub_gene_id":"Itpka","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.85 Coil:0.09 Helix:0.91 Strand:0.01
+ERTPRRSVGELRLLFEARCAAVA
+>93162_0:000548 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"93162_0","organism_name":"Marmota flaviventris","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9999_0:000220 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9999_0","organism_name":"Urocitellus parryii","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>9995_0:00286a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"9995_0","organism_name":"Marmota monax","pub_gene_id":"124104422","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>43179_0:004761 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"43179_0","organism_name":"Ictidomys tridecemlineatus","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.82 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>30640_0:000d0e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"30640_0","organism_name":"Sciurus carolinensis","pub_gene_id":"124977305","description":"inositol-trisphosphate 3-kinase A isoform X1"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10181_0:003346 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10181_0","organism_name":"Heterocephalus glaber","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.82 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>34839_0:001037 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"34839_0","organism_name":"Chinchilla lanigera","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:152 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10160_0:00013c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10160_0","organism_name":"Octodon degus","pub_gene_id":"Itpka","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>105255_0:0023f1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"105255_0","organism_name":"Dipodomys spectabilis","pub_gene_id":"122114622","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.75 ANCHOR_Score:0.78 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>214514_0:0047e4 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"214514_0","organism_name":"Perognathus longimembris pacificus","pub_gene_id":"125340329","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.80 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>51337_0:002ad8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"51337_0","organism_name":"Jaculus jaculus","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>79684_0:001d89 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"79684_0","organism_name":"Microtus ochrogaster","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>111838_0:003f54 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"111838_0","organism_name":"Microtus oregoni","pub_gene_id":"121465681","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10116_0:00180a {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10116_0","organism_name":"Rattus norvegicus","pub_gene_id":"Itpka","description":"Inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10117_0:0021d2 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10117_0","organism_name":"Rattus rattus","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>35658_0:0014c8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"35658_0","organism_name":"Mastomys coucha","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.88 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>61156_0:000bd3 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"61156_0","organism_name":"Arvicanthis niloticus","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.76 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>491861_0:0010a8 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"491861_0","organism_name":"Grammomys surdaster","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10093_0:000d44 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10093_0","organism_name":"Mus pahari","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.76 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10089_0:0007c1 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10089_0","organism_name":"Mus caroli","pub_gene_id":"Itpka","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10090_0:000a3b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10090_0","organism_name":"Mus musculus","pub_gene_id":"Itpka","description":"Inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>1047088_0:0020f7 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1047088_0","organism_name":"Arvicola amphibius","pub_gene_id":"119815397","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10041_0:001939 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10041_0","organism_name":"Peromyscus leucopus","pub_gene_id":"LOC114692309","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.83 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10041_0:001b9c {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10041_0","organism_name":"Peromyscus leucopus","pub_gene_id":"Itpka","description":"LOW QUALITY PROTEIN: inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>38674_0:0018df {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"38674_0","organism_name":"Onychomys torridus","pub_gene_id":"118583138","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.77 ANCHOR_Score:0.84 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>1026970_0:003302 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"1026970_0","organism_name":"Nannospalax galili","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:13 PSSM_Score:69.70 IUPRED_Score:0.73 ANCHOR_Score:0.67 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10036_0:00140b {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10036_0","organism_name":"Mesocricetus auratus","pub_gene_id":"Itpka","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.78 ANCHOR_Score:0.85 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10047_0:00196e {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10047_0","organism_name":"Meriones unguiculatus","pub_gene_id":"Itpka","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>10029_0:003ce0 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"10029_0","organism_name":"Cricetulus griseus","pub_gene_id":"Itpka","description":"Kinase"} pos:20 PSSM_Score:69.70 IUPRED_Score:0.71 ANCHOR_Score:0.64 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>27622_0:000109 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"27622_0","organism_name":"Molossus molossus","pub_gene_id":"118641173","description":"inositol-trisphosphate 3-kinase A"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.79 ANCHOR_Score:0.86 Coil:0.10 Helix:0.90 Strand:0.01
+ERAPRRSVGELRLLFEARCAAVA
+>185453_0:000327 {"pub_og_id":"2898831at2759","og_name":"Inositol-trisphosphate 3-kinase A","level_taxid":2759,"organism_taxid":"185453_0","organism_name":"Chrysochloris asiatica","pub_gene_id":"ITPKA","description":"Kinase"} pos:30 PSSM_Score:69.70 IUPRED_Score:0.81 ANCHOR_Score:0.87 Coil:0.09 Helix:0.91 Strand:0.01
+ERFPRRSVGELRLLFEARCAAVA

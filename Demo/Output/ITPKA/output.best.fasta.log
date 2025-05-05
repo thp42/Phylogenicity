@@ -1,0 +1,377 @@
+IQ-TREE multicore version 2.1.3 COVID-edition for Linux 64-bit built Jul 23 2024
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    pythagoras (AVX512, FMA3, 31 GB RAM)
+Command: iqtree2 -s output.best.fasta -m GTR -bb 1000 -nt 11
+Seed:    969982 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct  7 07:36:52 2024
+Kernel:  AVX+FMA - 11 threads (12 CPU cores detected)
+
+Reading alignment file output.best.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 239 sequences with 7302 columns, 1728 distinct patterns
+1186 parsimony-informative, 378 singleton sites, 5738 constant sites
+            Gap/Ambiguity  Composition  p-value
+   1  XM_0060011   78.27%    failed      0.00%
+   2  XM_0182322   80.98%    failed      0.00%
+   3  XM_0182311   80.69%    failed      0.00%
+   4  XM_0029353   80.69%    failed      0.00%
+   5  XM_0442719   80.57%    failed      0.00%
+   6  XM_0404125   80.57%    failed      0.00%
+   7  XM_0185710   80.94%    failed      0.00%
+   8  XM_0295986   80.32%    failed      0.03%
+   9  XM_0339508   79.99%    failed      0.01%
+  10  XM_0302143   80.03%    failed      0.00%
+  11  XM_0645126   82.74%    passed      7.63%
+  12  XM_0260334   81.02%    passed     17.41%
+  13  XM_0050291   80.90%    passed     19.33%
+  14  XM_0321879   81.76%    failed      1.83%
+  15  XM_0131888   80.90%    passed     12.21%
+  16  XM_0355396   80.90%    passed      9.51%
+  17  XM_0405577   80.90%    passed      7.31%
+  18  XM_0353273   80.90%    passed      8.47%
+  19  XM_0214036   80.90%    passed     21.65%
+  20  NM_0013919   80.90%    passed      6.90%
+  21  XM_0428136   80.90%    failed      2.18%
+  22  XM_0428693   80.90%    failed      3.83%
+  23  XM_0315935   80.90%    passed      6.70%
+  24  XM_0158642   83.16%    passed     16.09%
+  25  XM_0300379   82.29%    passed     66.60%
+  26  XM_0105800   83.16%    passed     16.12%
+  27  XM_0427908   80.90%    failed      2.11%
+  28  XM_0340624   80.90%    passed     10.04%
+  29  XM_0304817   80.90%    failed      4.88%
+  30  XM_0330616   80.98%    failed      4.06%
+  31  XM_0148692   80.90%    failed      4.17%
+  32  XM_0395522   80.90%    failed      4.05%
+  33  XM_0483059   80.90%    failed      3.13%
+  34  XM_0420382   80.20%    failed      1.27%
+  35  XM_0321113   80.90%    failed      2.81%
+  36  XM_0397048   78.84%    failed      2.21%
+  37  XM_0413982   80.20%    failed      0.78%
+  38  XM_0414597   80.20%    failed      1.02%
+  39  XM_0381374   80.20%    failed      0.92%
+  40  XM_0509748   80.20%    failed      0.56%
+  41  XM_0215334   80.90%    failed      2.43%
+  42  XM_0302743   80.20%    failed      0.96%
+  43  XM_0055224   80.90%    failed      1.56%
+  44  XM_0190069   81.18%    passed      5.44%
+  45  XM_0400681   80.90%    passed     10.91%
+  46  XM_0309501   80.90%    failed      2.42%
+  47  XM_0054800   80.20%    failed      2.03%
+  48  XM_0363850   80.20%    failed      2.40%
+  49  XM_0276421   80.90%    failed      0.55%
+  50  XM_0326914   80.20%    failed      0.12%
+  51  XM_0277502   80.20%    failed      0.12%
+  52  XM_0178122   80.90%    failed      1.44%
+  53  XM_0278878   80.20%    failed      0.09%
+  54  XM_0277065   80.20%    failed      0.14%
+  55  XM_0304522   80.90%    failed      0.54%
+  56  XM_0373941   82.29%    passed     88.91%
+  57  XM_0406006   80.90%    passed     49.72%
+  58  XM_0384048   80.85%    failed      2.80%
+  59  XM_0488532   79.50%    failed      2.34%
+  60  XM_0379004   80.94%    failed      3.10%
+  61  XM_0305595   84.76%    passed     29.23%
+  62  XM_0327938   81.02%    failed      0.79%
+  63  XM_0450121   81.02%    failed      1.98%
+  64  XM_0395382   81.02%    failed      1.62%
+  65  XM_0347691   81.02%    failed      3.41%
+  66  XM_0052846   81.02%    failed      2.86%
+  67  XM_0061286   81.02%    passed      7.71%
+  68  XM_0154295   81.84%    failed      0.00%
+  69  XM_0444364   81.76%    failed      0.00%
+  70  XM_0207937   81.35%    failed      0.02%
+  71  XM_0393238   81.59%    failed      0.00%
+  72  XM_0266645   81.59%    failed      0.00%
+  73  XM_0267098   81.59%    failed      0.00%
+  74  XM_0140655   81.59%    failed      0.00%
+  75  XM_0322293   82.99%    failed      0.00%
+  76  XM_0344178   81.72%    failed      0.00%
+  77  XM_0287233   81.72%    failed      0.06%
+  78  XM_0331456   81.72%    failed      0.02%
+  79  XM_0424554   81.43%    failed      0.00%
+  80  XM_0629681   81.47%    failed      0.02%
+  81  XM_0398438   81.06%    failed      0.01%
+  82  XM_0113549   81.06%    failed      0.00%
+  83  XM_0161522   81.06%    failed      0.00%
+  84  XM_0197254   74.73%    failed      0.00%
+  85  XM_0331096   81.06%    failed      0.01%
+  86  XM_0196448   81.06%    failed      0.00%
+  87  XM_0370560   81.06%    failed      0.03%
+  88  XM_0285070   81.06%    failed      0.00%
+  89  XM_0458239   81.72%    failed      0.00%
+  90  XM_0371618   81.06%    failed      0.00%
+  91  XM_0362782   81.06%    failed      0.10%
+  92  XM_0362980   80.53%    failed      0.00%
+  93  XM_0060931   81.06%    failed      0.00%
+  94  XM_0081430   81.06%    failed      0.00%
+  95  XM_0404923   81.06%    failed      0.00%
+  96  XM_0270669   81.06%    failed      0.00%
+  97  XM_0232554   81.06%    failed      0.00%
+  98  XM_0259197   80.98%    failed      0.00%
+  99  XM_0435556   81.06%    failed      0.00%
+ 100  XM_0478618   81.06%    failed      0.00%
+ 101  XM_0470745   81.06%    failed      0.00%
+ 102  XM_0303184   81.06%    failed      0.00%
+ 103  XM_0454499   81.06%    failed      0.00%
+ 104  XM_0429877   81.06%    failed      0.00%
+ 105  XM_0194425   81.06%    failed      0.00%
+ 106  XM_0429405   81.06%    failed      0.00%
+ 107  XM_0392329   81.06%    failed      0.00%
+ 108  XM_0299522   81.92%    failed      0.08%
+ 109  XM_0442299   81.06%    failed      0.00%
+ 110  XM_0047511   81.06%    failed      0.00%
+ 111  XM_0323433   81.06%    failed      0.00%
+ 112  XM_0477390   81.06%    failed      0.00%
+ 113  XM_0224926   81.06%    failed      0.00%
+ 114  XM_0328567   81.06%    failed      0.00%
+ 115  XM_0460100   81.06%    failed      0.00%
+ 116  XM_0044004   81.06%    failed      0.00%
+ 117  XM_0280960   81.06%    failed      0.00%
+ 118  XM_0275710   81.06%    failed      0.00%
+ 119  XM_0258844   81.06%    failed      0.00%
+ 120  XM_0459019   81.06%    failed      0.00%
+ 121  XM_0349940   81.06%    failed      0.00%
+ 122  XM_0216956   81.06%    failed      0.00%
+ 123  XM_0360842   81.06%    failed      0.00%
+ 124  XM_0324174   81.06%    failed      0.00%
+ 125  XM_0346611   75.51%    failed      0.00%
+ 126  XM_0406206   81.06%    failed      0.00%
+ 127  XM_0264799   81.06%    failed      0.00%
+ 128  XM_0457724   81.06%    failed      0.00%
+ 129  XM_0417298   75.47%    failed      0.00%
+ 130  XM_0384420   81.06%    failed      0.00%
+ 131  XM_0254731   81.06%    failed      0.00%
+ 132  XM_0370188   81.06%    failed      0.04%
+ 133  XM_0369237   79.25%    failed      0.02%
+ 134  XM_0236195   81.06%    failed      0.00%
+ 135  XM_0447651   81.68%    failed      0.00%
+ 136  XM_0044214   81.06%    failed      0.00%
+ 137  XM_0368404   81.06%    failed      0.00%
+ 138  XM_0270839   81.10%    failed      0.00%
+ 139  XM_0308430   81.10%    failed      0.00%
+ 140  XM_0199353   81.10%    failed      0.00%
+ 141  XM_0042739   81.10%    failed      0.00%
+ 142  XM_0292388   81.10%    failed      0.00%
+ 143  XM_0225874   81.10%    failed      0.00%
+ 144  XM_0326231   81.10%    failed      0.00%
+ 145  XM_0074601   81.06%    failed      0.00%
+ 146  XM_0071117   81.06%    failed      0.00%
+ 147  XM_0477666   81.06%    failed      0.03%
+ 148  XM_0316729   81.06%    failed      0.00%
+ 149  XM_0324814   81.06%    failed      0.00%
+ 150  XM_0314532   81.06%    failed      0.00%
+ 151  XM_0180544   81.06%    failed      0.00%
+ 152  XM_0279716   81.06%    failed      0.00%
+ 153  XM_0275535   81.06%    failed      0.00%
+ 154  NM_0010835   81.06%    failed      0.00%
+ 155  XM_0060662   81.06%    failed      0.00%
+ 156  XM_0439209   81.06%    failed      0.00%
+ 157  XM_0434715   81.06%    failed      0.00%
+ 158  XM_0068317   81.06%    passed     78.93%
+ 159  XM_0079404   81.06%    failed      0.65%
+ 160  XM_0034187   81.06%    failed      0.00%
+ 161  XM_0043807   81.06%    failed      0.00%
+ 162  XM_0068829   81.06%    failed      0.75%
+ 163  XM_0378342   81.06%    failed      0.00%
+ 164  XM_0044815   81.06%    failed      0.00%
+ 165  XM_0061587   81.43%    failed      0.04%
+ 166  XM_0080169   81.06%    failed      0.00%
+ 167  XM_0151419   81.06%    failed      0.00%
+ 168  XM_0117587   81.06%    failed      0.00%
+ 169  XM_0055592   81.06%    failed      0.00%
+ 170  XM_0253903   81.06%    failed      0.00%
+ 171  XM_0039008   81.06%    failed      0.00%
+ 172  XM_0120348   81.06%    failed      0.00%
+ 173  XM_0309205   81.06%    failed      0.00%
+ 174  XM_0331904   81.06%    failed      0.00%
+ 175  XM_0032667   81.06%    failed      0.00%
+ 176  XM_0321742   81.06%    failed      0.00%
+ 177  XM_0349385   81.06%    failed      0.00%
+ 178  XM_0011495   81.06%    failed      0.00%
+ 179  NM_002220_   81.06%    failed      0.00%
+ 180  XM_0310025   81.06%    failed      0.00%
+ 181  XM_0242326   81.06%    failed      0.00%
+ 182  XM_0175310   81.06%    failed      0.00%
+ 183  XM_0322512   81.06%    failed      0.00%
+ 184  XM_0352597   74.73%    failed      0.00%
+ 185  XM_0124624   81.06%    failed      0.00%
+ 186  XM_0037917   81.06%    failed      1.86%
+ 187  XM_0127664   81.06%    failed      0.00%
+ 188  XM_0455375   81.06%    failed      0.00%
+ 189  XM_0126493   81.06%    failed      0.00%
+ 190  XM_0045781   81.10%    failed      0.00%
+ 191  XM_0409686   81.10%    failed      0.00%
+ 192  XM_0518225   81.10%    failed      0.00%
+ 193  XM_0464613   81.10%    passed     16.44%
+ 194  XM_0279262   81.10%    passed     19.21%
+ 195  XM_0263926   81.10%    passed     26.45%
+ 196  XM_0053164   81.10%    passed     31.50%
+ 197  XM_0475407   81.10%    passed     26.01%
+ 198  XM_0211949   81.14%    passed     37.87%
+ 199  XM_0211561   81.14%    passed     28.04%
+ 200  NM_146125_   81.14%    passed     57.99%
+ 201  XM_0344958   81.14%    passed     36.83%
+ 202  XM_0287670   81.14%    passed     19.88%
+ 203  NM_031045_   81.14%    passed     65.14%
+ 204  XM_0329039   81.14%    passed     53.49%
+ 205  XM_0313715   81.14%    passed     39.43%
+ 206  XM_0383315   81.14%    passed     39.87%
+ 207  XM_0416790   81.14%    passed     25.96%
+ 208  XM_0053642   81.14%    passed     19.86%
+ 209  XM_0050647   81.14%    passed     23.80%
+ 210  XM_0169691   81.14%    passed     13.12%
+ 211  XM_0361865   81.14%    passed     12.67%
+ 212  XM_0288679   81.14%    failed      4.74%
+ 213  XM_0216405   81.14%    failed      0.00%
+ 214  XM_0178015   81.84%    passed     73.63%
+ 215  XM_0451571   81.10%    failed      0.62%
+ 216  XM_0046878   81.06%    failed      0.01%
+ 217  XM_0375022   81.06%    failed      0.00%
+ 218  XM_0364455   81.10%    failed      0.00%
+ 219  XM_0426879   81.10%    failed      0.00%
+ 220  XM_0483318   81.02%    failed      0.00%
+ 221  XM_0237128   82.50%    failed      0.00%
+ 222  XM_0135126   76.09%    failed      0.00%
+ 223  XM_0048616   81.10%    failed      0.00%
+ 224  XM_0319521   78.31%    failed      0.00%
+ 225  XM_0210093   80.44%    failed      0.52%
+ 226  XM_0278700   80.53%    failed      0.24%
+ 227  XM_0367342   80.36%    failed      0.08%
+ 228  XM_0439891   79.91%    failed      0.33%
+ 229  XM_0568102   80.07%    failed      2.84%
+ 230  XM_0446621   80.53%    failed      1.94%
+ 231  XM_0387410   83.69%    failed      0.00%
+ 232  XM_0290779   80.53%    failed      0.00%
+ 233  XM_0288212   78.84%    failed      0.01%
+ 234  XM_0397414   78.84%    failed      0.01%
+ 235  XM_0589920   76.66%    failed      0.01%
+ 236  XM_0066430   77.81%    failed      0.00%
+ 237  XM_0365414   77.69%    failed      0.00%
+ 238  XM_0353925   78.18%    failed      0.00%
+ 239  XM_0187272   78.51%    passed      8.74%
+WARNING: 239 sequences contain more than 50% gaps/ambiguity
+****  TOTAL        80.83%  197 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: XM_0429405 is identical to XM_0194425 but kept for subsequent analysis
+NOTE: XM_0457724 is identical to XM_0264799 but kept for subsequent analysis
+NOTE: XM_0254731 is identical to XM_0384420 but kept for subsequent analysis
+NOTE: XM_0434715 is identical to XM_0439209 but kept for subsequent analysis
+NOTE: XM_0117587 is identical to XM_0151419 but kept for subsequent analysis
+NOTE: XM_0039008 is identical to XM_0253903 but kept for subsequent analysis
+NOTE: XM_0011495 is identical to XM_0349385 but kept for subsequent analysis
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: XM_0055592 (identical to XM_0151419) is ignored but added at the end
+Alignment was printed to output.best.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to output.best.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.054 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 969982)...
+
+NOTE: 19 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -70404.080
+2. Current log-likelihood: -60065.820
+3. Current log-likelihood: -60055.375
+Optimal log-likelihood: -60055.367
+Rate parameters:  A-C: 1.38801  A-G: 3.51364  A-T: 0.90977  C-G: 1.67113  C-T: 5.13943  G-T: 1.00000
+Base frequencies:  A: 0.213  C: 0.289  G: 0.316  T: 0.181
+Parameters optimization took 3 rounds (0.177 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.025605 sec (of wall-clock time) 0.273866 sec(of CPU time)
+Computing RapidNJ tree took 0.357521 sec (of wall-clock time) 2.307268 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -60714.340
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.647 second
+Computing log-likelihood of 98 initial trees ... 1.539 seconds
+Current best score: -60055.367
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -60040.882
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -60026.736
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -60024.989
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -60022.232
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -60015.279
+Iteration 10 / LogL: -60016.415 / Time: 0h:0m:9s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 16: -60013.963
+Iteration 20 / LogL: -60024.327 / Time: 0h:0m:12s
+Finish initializing candidate tree set (20)
+Current best tree score: -60013.963 / CPU time: 11.544
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -60013.681
+Iteration 30 / LogL: -60016.661 / Time: 0h:0m:14s (0h:0m:49s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 34: -60012.803
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -60011.883
+Iteration 40 / LogL: -60050.834 / Time: 0h:0m:17s (0h:0m:42s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 41: -60011.855
+Iteration 50 / LogL: -60081.056 / Time: 0h:0m:19s (0h:0m:35s left)
+Log-likelihood cutoff on original alignment: -60116.263
+Iteration 60 / LogL: -60045.406 / Time: 0h:0m:22s (0h:0m:30s left)
+Iteration 70 / LogL: -60014.860 / Time: 0h:0m:24s (0h:0m:25s left)
+Iteration 80 / LogL: -60049.458 / Time: 0h:0m:26s (0h:0m:20s left)
+Iteration 90 / LogL: -60015.052 / Time: 0h:0m:28s (0h:0m:16s left)
+Iteration 100 / LogL: -60011.884 / Time: 0h:0m:31s (0h:0m:12s left)
+Log-likelihood cutoff on original alignment: -60116.263
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+Iteration 110 / LogL: -60059.890 / Time: 0h:0m:33s (0h:0m:27s left)
+Iteration 120 / LogL: -60539.937 / Time: 0h:0m:36s (0h:0m:24s left)
+Iteration 130 / LogL: -60019.314 / Time: 0h:0m:38s (0h:0m:20s left)
+Iteration 140 / LogL: -60075.348 / Time: 0h:0m:40s (0h:0m:17s left)
+TREE SEARCH COMPLETED AFTER 142 ITERATIONS / Time: 0h:0m:40s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -60011.855
+Optimal log-likelihood: -60011.854
+Rate parameters:  A-C: 1.38183  A-G: 3.53401  A-T: 0.91020  C-G: 1.64688  C-T: 5.15801  G-T: 1.00000
+Base frequencies:  A: 0.213  C: 0.289  G: 0.316  T: 0.181
+Parameters optimization took 1 rounds (0.033 sec)
+BEST SCORE FOUND : -60011.854
+Creating bootstrap support values...
+Split supports printed to NEXUS file output.best.fasta.splits.nex
+Total tree length: 7.713
+
+Total number of iterations: 142
+CPU time used for tree search: 384.857 sec (0h:6m:24s)
+Wall-clock time used for tree search: 40.178 sec (0h:0m:40s)
+Total CPU time used: 391.007 sec (0h:6m:31s)
+Total wall-clock time used: 41.323 sec (0h:0m:41s)
+
+Computing bootstrap consensus tree...
+Reading input file output.best.fasta.splits.nex...
+238 taxa and 821 splits.
+Consensus tree written to output.best.fasta.contree
+Reading input trees file output.best.fasta.contree
+Log-likelihood of consensus tree: -60011.923
+
+Analysis results written to: 
+  IQ-TREE report:                output.best.fasta.iqtree
+  Maximum-likelihood tree:       output.best.fasta.treefile
+  Likelihood distances:          output.best.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          output.best.fasta.splits.nex
+  Consensus tree:                output.best.fasta.contree
+  Screen log file:               output.best.fasta.log
+
+Date and Time: Mon Oct  7 07:37:34 2024
