@@ -31,14 +31,19 @@ This package is supported for Linux. The package has been tested on the followin
 #### **Dependencies**
 The following packages/programs should be installed. The typical installation time should take some minutes. 
 
-| Component | Minimum Version | Purpose |
-|-----------|-----------------|---------|
-| **Python** | 3.11 | motif extraction, PSSM, tree parsing |
-| **R** | 4.2 | sequence alignment with **DECIPHER** |
-| **IQ‑TREE 2** | 2.2 | maximum‑likelihood tree building |
-| **Prank** | 170427 | codon‑aware alignment |
-| **HyPhy** | 2.5 | dN/dS & ancestral reconstruction |
-| **WebLogo 3** | 3.8 | sequence‑logo rendering |
+
+**Programs**:
+
+| Program | Tested version | Download / Release page |
+|---------|---------------|-------------------------|
+| Python | **3.11.5** (24 Aug 2023) :contentReference[oaicite:0]{index=0} | https://www.python.org/downloads/release/python-3115/ |
+| R | **4.5.0** (11 Apr 2025) :contentReference[oaicite:1]{index=1} | https://cran.r-project.org/bin/ |
+| IQ‑TREE 2 | **2.4.0** (legacy; Feb 2025) – latest stable is **3.0.0** (Apr 2025) :contentReference[oaicite:2]{index=2} | https://www.iqtree.org/ |
+| PRANK | **v.170427** (current stable) :contentReference[oaicite:3]{index=3} | https://github.com/ariloytynoja/prank-msa |
+| HyPhy | **2.5.71** (Mar 2025) :contentReference[oaicite:4]{index=4} | https://github.com/veg/hyphy/releases |
+| WebLogo 3 | **3.9.0** (23 Dec 2024) :contentReference[oaicite:5]{index=5} | https://github.com/gecrooks/weblogo/releases |
+| IUPred3 | **Web server 3** (2024) :contentReference[oaicite:6]{index=6} | https://iupred3.elte.hu/ |
+| Jalview | **2.11.4.1** (29 Oct 2024) :contentReference[oaicite:7]{index=7} | https://www.jalview.org/download/ |
 
 **Python packages**:
 ```
@@ -113,5 +118,17 @@ DECIPHER (v.2.28)
    - **Codon‑level analysis** – codon alignment with Prank, dN/dS with HyPhy FEL, and ancestral sequence reconstruction.
 
 </details>
+
+---
+
+## Citation 
+
+If you use these python scripts in published research, please cite:
+- Manuscript
+  - **Discovery of a new evolutionarily conserved short linear F-actin binding motif**: Themistoklis Paraschiakos, Biao Yuan, Kostiantyn Sopelniak, Michael Bucher, Lisa Simon, Ksenija Zonjic, Dominic Eggers, Franziska Selle, Jing Li, Stefan Linder, Thomas C. Marlovits, Sabine Windhorst. bioRxiv 2025.04.16.649135; [doi: https://doi.org/10.1101/2025.04.16.649135](https://www.biorxiv.org/content/10.1101/2025.04.16.649135v1)
+- Tools:
+  -   **PSSMSearch**: Krystkowiak, I., Manguy, J., & Davey, N. E. (2018). PSSMSearch: A server for modeling, visualization, proteome-wide discovery and annotation of protein motif specificity determinants. Nucleic Acids Research, 46(W1), W235–W241. https://doi.org/10.1093/nar/gky426
+  -   **ANCHOR**: Dosztányi, Z., Mészáros, B., & Simon, I. (2009). ANCHOR: Web server for predicting protein binding regions in disordered proteins. Bioinformatics (Oxford, England), 25(20), 2745–2746. https://doi.org/10.1093/bioinformatics/btp518
+  -   **IUPRED**:Erdős, G., Pajkos, M., & Dosztányi, Z. (2021). IUPred3: Prediction of protein disorder enhanced with unambiguous experimental annotation and visualization of evolutionary conservation. Nucleic Acids Research, 49(W1), W297–W303. https://doi.org/10.1093/nar/gkab408
 
 ---
