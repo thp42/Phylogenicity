@@ -38,10 +38,10 @@ The following packages/programs should be installed. The typical installation ti
 |---------|---------------|-------------------------|
 | Python | **3.11.5** | https://www.python.org/downloads/release/python-3115/ |
 | R | **4.5.0** | https://cran.r-project.org/bin/ |
-| IQ‑TREE 2 | **2.4.0** | [https://www.iqtree.org/](https://iqtree.github.io/) |
+| IQ‑TREE 2 | **2.4.0** | https://iqtree.github.io/ |
 | PRANK | **v.170427** | https://github.com/ariloytynoja/prank-msa |
-| HyPhy | **2.5.71** | https://github.com/veg/hyphy/releases |
-| WebLogo 3 | **3.9.0** | https://github.com/gecrooks/weblogo/releases |
+| HyPhy | **2.5.71** | https://github.com/veg/hyphy |
+| WebLogo 3 | **3.9.0** | https://github.com/gecrooks/weblogo |
 | IUPred3 | **Web server 3** | https://iupred3.elte.hu/ |
 | Jalview | **2.11.4.1** | https://www.jalview.org/download/ |
 
@@ -120,6 +120,15 @@ DECIPHER (v.2.28)
 </details>
 
 ---
+
+## Features 
+Follow the **“Methods Phylogenicity.docx”** stored in this repository. 
+
+---
+
+
+
+
 
 ## Citation 
 
