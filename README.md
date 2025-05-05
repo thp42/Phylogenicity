@@ -78,3 +78,40 @@ DECIPHER (v.2.28)
 </details>
 
 ---
+## Installation & Environment
+
+<details>
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/thp42/Phylogenicity.git
+   cd Phylogenicity
+   ```
+
+2. Install all dependencies, libraries and packages
+
+3. Confirm that external binaries such as ```iqtree2```, ```prank```, and ```hyphy``` execute from the command line.
+
+</details>
+
+
+---
+
+## Features 
+
+<details>
+
+   - **Orthologue retrieval** – fetch your protein family from OrthoDB.
+   - **High‑quality MSA** – automated alignment with DECIPHER::AlignSeqs.
+   - **Maximum‑likelihood trees** – builds robust WAG/GTR trees in IQ‑TREE 2 with 1000 bootstraps.
+   - **Isoform recognition** – filters, renames, and colour‑codes isoforms for downstream plotting.
+   - **Tree statistics & pruning** – suggests branch‑length cut‑offs, cleans noisy tips, and recalculates support.
+   - **Motif discovery** – RegEx + IUPRED/ANCHOR/PSIPRED filters, followed by iterative PSSM scoring (PAM30 / BLOSUM62).
+   - **Taxonomic annotation** – determines MRCA of motif‑bearing sequences and visualises gains/losses on a taxon‑based tree.
+   - **Sequence logos** – generates WebLogo PNGs for each motif class.
+   - **Codon‑level analysis** – codon alignment with Prank, dN/dS with HyPhy FEL, and ancestral sequence reconstruction.
+
+</details>
+
+---
