@@ -108,8 +108,8 @@ DECIPHER (v.2.28)
 <details>
 
    - **Orthologue retrieval** – fetch your protein family from OrthoDB.
-   - **High‑quality MSA** – automated alignment with DECIPHER::AlignSeqs.
-   - **Maximum‑likelihood trees** – builds robust WAG/GTR trees in IQ‑TREE 2 with 1000 bootstraps.
+   - **High‑quality MSA** – automated alignment with DECIPHER::AlignSeqs. Be aware, that this calculation, depending on the number of threads and the size of the .fasta, might take up to days. 
+   - **Maximum‑likelihood trees** – builds robust WAG/GTR trees in IQ‑TREE 2 with 1000 bootstraps. Be aware, that this calculation, depending on the number of threads and the size of the .fasta, might also take up to days.
    - **Isoform recognition** – filters, renames, and colour‑codes isoforms for downstream plotting.
    - **Tree statistics & pruning** – suggests branch‑length cut‑offs, cleans noisy tips, and recalculates support.
    - **Motif discovery** – RegEx + IUPRED/ANCHOR/PSIPRED filters, followed by iterative PSSM scoring (PAM30 / BLOSUM62).
