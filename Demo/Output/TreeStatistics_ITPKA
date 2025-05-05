@@ -1,0 +1,63 @@
+Suggested cutoff (mean + 7 * std_dev): 0.8432119834893999
+Mean Branch Lengths: 0.06303371272256322
+Median Branch Lengths: 0.0223111
+Standard Deviation: 0.11145403868097667
+Max Branch Lengths: 1.97339
+Min Branch Lengths: 1e-06
+Mean Bootstrap Values: 90.25803686240891
+Median Bootstrap Values: 100.0
+Standard Deviation: 20.322397866398997
+Max Bootstrap Values: 100
+Min Bootstrap Values: 1
+
+Overall Isoform Distribution:
+None: 751 (32.54%)
+ITPKA: 630 (27.30%)
+ITPKB: 593 (25.69%)
+ITPKC: 334 (14.47%)
+Non-classified: 0 (0.00%)
+
+Divergence Event 3:
+  Taxonomy: Vertebrata
+  Parent Isoforms: {'ITPKB': 541, 'ITPKA': 515, 'None': 257, 'ITPKC': 331}
+  Child Distributions:
+    Child 1 (Vertebrata): {'ITPKB': 97, 'ITPKA': 515, 'None': 215, 'ITPKC': 331}
+    Child 2 (Gnathostomata): {'None': 42, 'ITPKB': 444}
+  Total leaves: 1644
+  Proportion of total tree: 71.23%
+  Evolutionary Significance:
+    - This event represents a major divergence in ITPK evolution, affecting 71.23% of all analyzed sequences.
+    - The ancestral lineage at the Vertebrata level had multiple ITPK isoforms: ITPKB, ITPKA, None, ITPKC.
+    - A significant portion of ITPKB (444/541, 82.07%) transitioned to the Gnathostomata lineage.
+    - A significant portion of ITPKA (515/515, 100.00%) transitioned to the Vertebrata lineage.
+    - A significant portion of None (215/257, 83.66%) transitioned to the Vertebrata lineage.
+    - A significant portion of ITPKC (331/331, 100.00%) transitioned to the Vertebrata lineage.
+
+Divergence Event 5:
+  Taxonomy: Gnathostomata
+  Parent Isoforms: {'ITPKA': 476, 'None': 181, 'ITPKC': 326, 'ITPKB': 1}
+  Child Distributions:
+    Child 1 (Gnathostomata): {'ITPKA': 456, 'None': 37}
+    Child 2 (Gnathostomata): {'ITPKC': 326, 'ITPKA': 20, 'None': 144, 'ITPKB': 1}
+  Total leaves: 984
+  Proportion of total tree: 42.63%
+  Evolutionary Significance:
+    - This event represents a major divergence in ITPK evolution, affecting 42.63% of all analyzed sequences.
+    - The ancestral lineage at the Gnathostomata level had multiple ITPK isoforms: ITPKA, None, ITPKC, ITPKB.
+    - A significant portion of ITPKA (456/476, 95.80%) transitioned to the Gnathostomata lineage.
+    - A significant portion of None (144/181, 79.56%) transitioned to the Gnathostomata lineage.
+    - A significant portion of ITPKC (326/326, 100.00%) transitioned to the Gnathostomata lineage.
+    - A significant portion of ITPKB (1/1, 100.00%) transitioned to the Gnathostomata lineage.
+
+Common ancestors for sequences containing motifs in each isoform:
+ITPKA: Common ancestor: Euteleostomi
+ITPKB: Common ancestor: Gnathostomata
+
+Analyzing unmapped motifs...
+
+Analyzing unmapped motifs for ITPKA (Common ancestor: Euteleostomi, Taxid: 117571)...
+All unmapped motifs belong to taxa within or including the lineage of ITPKA's common ancestor.
+
+Analyzing unmapped motifs for ITPKB (Common ancestor: Gnathostomata, Taxid: 7776)...
+All unmapped motifs belong to taxa within or including the lineage of ITPKB's common ancestor.
+
